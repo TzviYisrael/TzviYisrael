@@ -1,9 +1,7 @@
+![name](https://my-readme-widget.vercel.app/api/badge?data=%5B%7B%22type%22%3A%22text%22%2C%22text%22%3A%22Greetings%20fellow%20adventurer!%22%2C%22x%22%3A660.6842041015625%2C%22y%22%3A200%2C%22color%22%3A%22%232ec27e%22%2C%22size%22%3A58%2C%22bold%22%3Atrue%2C%22underline%22%3Afalse%2C%22align%22%3A%22middle%22%2C%22fontFamily%22%3A%22JetBrains%20Mono%22%2C%22shadowEnabled%22%3Afalse%2C%22shadowOffsetX%22%3A0%2C%22shadowOffsetY%22%3A0%2C%22shadowBlur%22%3A0%2C%22shadowColor%22%3A%22transparent%22%2C%22gradient%22%3A%7B%22enabled%22%3Afalse%2C%22type%22%3A%22linear%22%2C%22angle%22%3A90%2C%22stops%22%3A%5B%7B%22offset%22%3A0%2C%22color%22%3A%22%236366f1%22%7D%2C%7B%22offset%22%3A1%2C%22color%22%3A%22%23ec4899%22%7D%5D%7D%2C%22neon%22%3A%7B%22enabled%22%3Afalse%2C%22color%22%3A%22%2300ff00%22%2C%22intensity%22%3A20%2C%22strokeWidth%22%3A2%7D%2C%22width%22%3A1001.368408203125%2C%22height%22%3A63.800000000000004%2C%22lineWidths%22%3A%5B1001.368408203125%5D%2C%22italic%22%3Afalse%2C%22rotation%22%3A0%7D%2C%7B%22type%22%3A%22text%22%2C%22text%22%3A%22My%20name%20is%20Tzvi%20Yisrael%20and%20im%20a%20software%20developer%22%2C%22x%22%3A687.2000122070312%2C%22y%22%3A300%2C%22color%22%3A%22%2364748b%22%2C%22size%22%3A24%2C%22bold%22%3Afalse%2C%22underline%22%3Afalse%2C%22align%22%3A%22middle%22%2C%22fontFamily%22%3A%22JetBrains%20Mono%22%2C%22shadowEnabled%22%3Afalse%2C%22shadowOffsetX%22%3A0%2C%22shadowOffsetY%22%3A0%2C%22shadowBlur%22%3A0%2C%22shadowColor%22%3A%22transparent%22%2C%22gradient%22%3A%7B%22enabled%22%3Afalse%2C%22type%22%3A%22linear%22%2C%22angle%22%3A90%2C%22stops%22%3A%5B%7B%22offset%22%3A0%2C%22color%22%3A%22%236366f1%22%7D%2C%7B%22offset%22%3A1%2C%22color%22%3A%22%23ec4899%22%7D%5D%7D%2C%22neon%22%3A%7B%22enabled%22%3Afalse%2C%22color%22%3A%22%2300ff00%22%2C%22intensity%22%3A20%2C%22strokeWidth%22%3A2%7D%2C%22width%22%3A734.4000244140625%2C%22height%22%3A26.400000000000002%2C%22lineWidths%22%3A%5B734.4000244140625%5D%7D%5D&h=600&w=1400&theme=transparent&style=transparent&bgColor=%230f172a&blobColor=%230f172a)
+
+
 - Hi, I’m @TzviYisrael Ben David
 
-- I’m currently learning Computer science in Lev Academic Center in Jerusalem
-- I’m looking to collaborate on Java/C++/python projects
-
-<!---
-TzviYisrael/TzviYisrael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I’m currently doing my Computer science degree in Jerusalem College of Technology
+- I’m looking to collaborate on C/C++/python/Java projects
